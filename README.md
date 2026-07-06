@@ -42,3 +42,10 @@ Minimal packet inspection utility designed to teach packet analysis concepts.
 
 MIT License
 
+
+---
+
+## Screenshot
+
+![Demo](screenshots/demo.jpg)
+
