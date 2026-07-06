@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "microshark"
+version = "1.0.0"
+description = "Tiny packet capture inspector"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.9"
+authors = [
+    {name = "Greenfield Projects"}
+]
+
+[project.scripts]
+microshark = "microshark.cli:main"
+
+[tool.setuptools]
+packages = ["microshark"]

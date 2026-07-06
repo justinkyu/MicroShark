@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+microshark/__init__.py
+microshark/__main__.py
+microshark/cli.py
+microshark.egg-info/PKG-INFO
+microshark.egg-info/SOURCES.txt
+microshark.egg-info/dependency_links.txt
+microshark.egg-info/entry_points.txt
+microshark.egg-info/top_level.txt
