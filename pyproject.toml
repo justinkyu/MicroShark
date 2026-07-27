@@ -17,4 +17,5 @@ authors = [
 microshark = "microshark.cli:main"
 
 [tool.setuptools]
+license-files = []
 packages = ["microshark"]
